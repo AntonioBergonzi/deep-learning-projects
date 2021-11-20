@@ -16,7 +16,7 @@ the network correctly outputs that all the people in the picture have the mask o
 
 # Segmentation
 In this notebook the model had the task of segmanting the image, in other words the network determined which parts of the picture were ground, healthy plants or weeds.
-Our network was basically an implementation of UNet, and it reached a meanIoU (mean Intersection over Union) between 0.60 and 0.65
+Our network was basically an implementation of UNet, and it reached a meanIoU (mean Intersection over Union) between 0.60 and 0.65.
 
 ## Example
 Given the input below
@@ -49,9 +49,9 @@ The architecture used for the project was the following:
 
 The architecture of the single networks is taken from a paper (arxiv link is in the notebook) and is the following:
 
-<img src="./pictures/paper.png" width="300"/>
+<img src="./pictures/paper.png" width="250"/>
 
 
 This residual learning architecture greatly improved the accuracy, which ended up being 0.54.
 
-This project was created in collaboration with Giulio Alizoni and Elia Bonazza for the 2020/2021 edition of the course Artificial Neural Networks and Deep Learning
+This project was created in collaboration with Giulio Alizoni and Elia Bonazza for the 2020/2021 edition of the course Artificial Neural Networks and Deep Learning.
