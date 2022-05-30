@@ -33,7 +33,7 @@ The network also correctly classified some pixels as weed (the white parts of th
 
 The task that need to be performed in this notebook was to correctly answer to a question that referred to an image.
 
-##Example
+## Example
 
 With as input the question "How many people are in the picture?" and the following picture
 
